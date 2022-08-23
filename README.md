@@ -1,3 +1,4 @@
 # TechCareerCalculator
 
-https://imgflip.com/gif/6qv1cf
+
+![Uploading calculator.gif…]()
